@@ -1,1 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+    box-sizing: border-box;
+} 
+
+html {
+    height: 100%;
+    
+}
+
+body {
+    background-color: rgb(57, 60, 87);
+    color: snow;
+    height: 100%;
+}
+
+a {
+    color: #44a4cd;
+}
+
+a:hover {
+    color: #44a8cf;
+}
+
+.shadow {
+    box-shadow: 0 8px 12
+}
